@@ -1,0 +1,80 @@
+@font-face {
+    font-family: Oswald; 
+    src: url(Oswald-Medium.ttf);
+   }
+
+@font-face {
+    font-family: Caveat; 
+    src: url(Caveat-Bold.ttf);
+   }
+
+.headerDiv
+{
+    border: 1px solid;
+    border-color:yellow;
+    
+}
+
+
+a
+{
+    text-decoration: none;
+    color:white;
+    font-family: Oswald;
+    font-size:150%
+}
+
+a:hover
+{
+    color:white;
+    font-family: Oswald;
+}
+
+body
+{
+    background-color: rgb(34,34,38);
+}
+
+h1
+{
+    color:white;
+    font-family: Oswald;
+    font-size: 200%;
+}
+
+p
+{
+    color:white;
+    text-align: center;
+    font-family: Caveat;
+    font-size: 220%;
+}
+
+.pageimage
+{
+    width: 400px; height: 400px; object-fit: cover;
+    margin-top:10%;
+    border:2px solid;
+    border-color:yellow;
+}
+
+.footerimagesocialinst
+{
+    width: 100px; height: 100px; object-fit: cover;
+    margin-right: -5%;
+}
+
+.footerclass
+{
+    
+    border: 1px solid;
+    border-color:yellow;
+    margin-top:5%;
+}
+
+.footerimagesocialvk
+{
+    width: 13%; object-fit: cover;
+    margin-right: 2%;
+    margin-left: 10%;
+}
