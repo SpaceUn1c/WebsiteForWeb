@@ -40,6 +40,13 @@ h1
     color:white;
     font-family: Oswald;
     font-size: 200%;
+    transition: 1s; 
+    
+}
+
+h1:hover
+{
+    transform: scale(1.1);
 }
 
 p
